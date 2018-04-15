@@ -1,0 +1,9 @@
+[submodule "firmware"]
+	path = firmware
+	url = https://github.com/attachix/ukit-firmware.git
+[submodule "enclosure"]
+	path = enclosure
+	url = https://github.com/attachix/ukit-enclosure.git
+[submodule "pcb"]
+	path = pcb
+	url = https://github.com/attachix/ukit-pcb.git
