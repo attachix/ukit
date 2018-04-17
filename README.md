@@ -8,9 +8,9 @@ We couldn't find such an IoT device; therefore, we gathered a small team of pass
 ## License
 All components needed to build and operate U:Kit are under open source license. This repository is containing links to all projects
 that are included in U:Kit. You will find the following
-* [pcb/](pcb) contains all Printed Circuit Boards(PCB) electronic files needed to create them.
-* [enclosure/](enclosure) - contains all 3D models needed to build the plastic enclosure.
-* [firmware/](firmware) - contains the firmware for all microcontrollers that are part of U:Kit.
+* pcb/ - contains all Printed Circuit Boards(PCB) electronic files needed to create them.
+* enclosure/ - contains all 3D models needed to build the plastic enclosure.
+* firmware/ - contains the firmware for all microcontrollers that are part of U:Kit.
 
 ## U:Kit - a powerful sensor kit
 U:Kit is a sensor kit that can help you improve the safety and security in your house while allowing you to modify and extend it to your own needs.
@@ -43,10 +43,10 @@ Our initial team consists of a software engineer, a hardware guru, a star design
 
 ## Contribute
 Just fork the project that you are interested in and send us your Pull Request.
-For a full list of contributors to this repository take a [look here](https://github.com/attachix/ukit-attiny-firmware/graphs/contributors).
+For a full list of contributors to this repository take a [look here](https://github.com/attachix/ukit/graphs/contributors).
 Every individual project that is part of U:Kit has its own list of contributors. Make sure to check them too.
 
 ## Copyright
 Unless otherwise stated this project and all of it sub-projects are copyright:
 
-(c) 2016 - 2018 - Slavey Karadzhov
+(c) 2016 - 2018 - Slavey Karadzhov <slav@attachix.com>
