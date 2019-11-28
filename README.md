@@ -49,4 +49,4 @@ Every individual project that is part of U:Kit has its own list of contributors.
 ## Copyright
 Unless otherwise stated this project and all of it sub-projects are copyright:
 
-(c) 2016 - 2018 - Slavey Karadzhov <slav@attachix.com>
+(c) 2016 - 2020 - Slavey Karadzhov <slav@attachix.com>
